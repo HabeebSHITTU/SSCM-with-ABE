@@ -1,0 +1,10 @@
+__pycache__
+.pytest_cache
+.env
+.history
+.hypothesis/
+build/
+reports/
+
+.DS_STORE
+keep/
